@@ -1,0 +1,8 @@
+variant: flatcar
+version: 1.0.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDm/D7W9HWlXLjwPXmDkUwa6w7hFoCYhn50x+RBBn4/U64SK7Kqt1/8N6MjOYvSSqzKXSWYd17YuHzk9UyOprNbWW9rh3tjeCIuj/DgRG82lSpXpYn/B8NSjpvk3zYS6CNYkl+x14i3+8uezOXhUxOgC1tv8pWJ+cbQ17gw8Oci/4CwCWreZo0BF3bjOn0WPcZ8CdYOHwUCsdp2OFRcejYK3Re34PK5nreP++0tWVU/kTnT6gRW93KrQw3QuT/ZoBN31FyTDvtO+sbEDP2qF7OdrkG/U7q2IwmjSRxCPB+B/eUFAEm8QOi6oTHjxlkY8G4fL71nvZqLFA5CqcoshC4wdrMb9Gs5IaG9CCTMle31b1sqNldY2e+sFvZf+mwBvjHmztKvVzUlXZsVwZcKWmmnGg2JWGdpFhqYJctLloTdY8HsOkN3z6I5jYM7coat/Gdtdjex57E4r2ehY4NQxmuBUS4m+0b2c5DQFOzLa1D5Slf2SVHlbHqolCln9Qd8tvyg8LovpIxAN6UUTIYa4b3kSC8Oogn+tca6tjQBfe7VuZiQzbGc0n9YDY4VTDsipGPbszUKgn1bRdgjYl9tzsO9rYq/SaJAP3OlUYJP1yFTsi4Xi8j8PVU0OtrOg+sdPf5hzhbPb4wBCrY2chP0fRRUJIpOU84gZdIA8wVJyCeRjQ== aradh@emp.com
+
